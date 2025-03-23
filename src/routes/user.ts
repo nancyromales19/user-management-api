@@ -19,3 +19,15 @@ router.post("/", async (req, res) => {
 });
 
 export default router;
+
+router.get("/", async (req, res) => {
+    try {
+        const userRepository = AppDataSource.getRepository(User);
+        const users = await userRepository.find();
+
+        res.status(200).json(users);
+    } catch (error) {
+        res.status(500).json({ message: "Error fetching users", error });
+    }
+});
+
