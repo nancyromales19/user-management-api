@@ -27,3 +27,4 @@ UPDATING USER DETAILS - GURREA
 
 RETRIEVING USER DETAILS - LOPEZ
     ![alt text](get.png)
+    ![alt text](get2.png)
