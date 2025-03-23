@@ -22,7 +22,6 @@ CREATION OF USERS - ROMALES
     ![alt text](image-2.png)
 
 DELETING USERS - LOAYON
-
     ![alt text](image-5.png)
     ![alt text](image-6.png)
  
