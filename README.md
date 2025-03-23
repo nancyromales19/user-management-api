@@ -22,9 +22,12 @@ CREATION OF USERS - ROMALES
     ![alt text](image-2.png)
 
 DELETING USERS - LOAYON
-
+    ![alt text](image-5.png)
+    ![alt text](image-6.png)
+ 
 UPDATING USER DETAILS - GURREA
 
 RETRIEVING USER DETAILS - LOPEZ
     ![alt text](get.png)
     ![alt text](get2.png)
+

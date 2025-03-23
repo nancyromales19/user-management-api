@@ -64,7 +64,6 @@ router.get("/", async (req, res) => {
     }
 });
 
-
 router.get("/:id", async (req: Request, res: Response): Promise<void> => {
     try {
         const userId = Number(req.params.id); // Convert ID to number
