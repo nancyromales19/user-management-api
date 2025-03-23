@@ -22,6 +22,8 @@ CREATION OF USERS - ROMALES
     ![alt text](image-2.png)
 
 DELETING USERS - LOAYON
+    ![image](https://github.com/user-attachments/assets/fb7e5892-5d2e-4a39-8ffe-a5ea6f1fddc4)
+
 
 UPDATING USER DETAILS - GURREA
 
