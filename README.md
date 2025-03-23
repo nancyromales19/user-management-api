@@ -19,4 +19,10 @@ The CRUD (Create, Read, Update, Delete) features of the API are intended for use
 # III. API Documentation
 
 CREATION OF USERS - ROMALES
-![alt text](image-2.png)
+    ![alt text](image-2.png)
+
+DELETING USERS - LOAYON
+
+UPDATING USER DETAILS - GURREA
+
+RETRIEVING USER DETAILS - LOPEZ
