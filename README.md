@@ -26,6 +26,8 @@ DELETING USERS - LOAYON
     ![alt text](image-6.png)
  
 UPDATING USER DETAILS - GURREA
+   ![alt text](Update-1.png)
+   ![alt text](Update-2.png)
 
 RETRIEVING USER DETAILS - LOPEZ
     ![alt text](get.png)
