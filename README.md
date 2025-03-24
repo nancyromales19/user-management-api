@@ -22,8 +22,7 @@ CREATION OF USERS - ROMALES
     ![alt text](image-2.png)
 
 DELETING USERS - LOAYON
-    ![alt text](image-5.png)
-    ![alt text](image-6.png)
+    ![alt text](image-7.png)
  
 UPDATING USER DETAILS - GURREA
    ![alt text](Update-1.png)
@@ -32,4 +31,29 @@ UPDATING USER DETAILS - GURREA
 RETRIEVING USER DETAILS - LOPEZ
     ![alt text](get.png)
     ![alt text](get2.png)
+
+# IV. Testing
+
+ 1. In testing, we used POSTMAN to test the API. You can use anything you are comfortable with.
+    ![alt text](image-8.png)
+
+ 2. Make sure that your sql is running first.
+    ![alt text](image-9.png)
+    ![alt text](image-10.png)
+
+ 3. Run "npm run dev" in your terminal, you will see a message saying the serving is listening at port 3000
+    ![alt text](image-11.png)
+    ![alt text](image-12.png)
+
+4. You can now test in Postman.
+    ![alt text](image-13.png)
+
+
+# V. MERGE CONFLICT 
+
+    During the process of creating our application, we encountered a conflict. And basically we were able to resolve the 
+    conflict.
+   ![alt text](image-15.png)
+   ![alt text](image-16.png)
+
 
